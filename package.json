@@ -1,0 +1,25 @@
+{
+  "name": "lufom-website",
+  "version": "1.0.0",
+  "description": "Lucas Mello's Website",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mellolucas/lufom-website.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mellolucas/lufom-website/issues"
+  },
+  "homepage": "https://github.com/mellolucas/lufom-website#readme",
+  "dependencies": {
+    "next": "^12.1.5",
+    "react": "^18.0.0",
+    "react-dom": "^18.0.0"
+  }
+}
