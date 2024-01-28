@@ -1,0 +1,31 @@
+version: "0.2"
+ignorePaths: []
+dictionaryDefinitions: []
+dictionaries: []
+words:
+  - alefragnani
+  - bierner
+  - codeql
+  - dbaeumer
+  - devcontainers
+  - devs
+  - Expt
+  - extensionpack
+  - giphy
+  - goodreads
+  - Gruntfuggly
+  - hackerone
+  - heygithub
+  - lufom
+  - Mello
+  - Mello's
+  - Oliveira
+  - qwiklabs
+  - remotehub
+  - shellcheck
+  - timonwong
+  - tryhackme
+  - vscodeintellicode
+  - yzhang
+ignoreWords: []
+import: []
