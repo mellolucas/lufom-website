@@ -15,7 +15,7 @@ function Home() {
       </p>
       <p>
           <Image
-            src="https://github-readme-stats.vercel.app/api?username=mellolucas&count_private=true&show_icons=true&hide=stars,issues&theme=tokyonight&locale=en"
+            src="https://lufom-readme-stats.vercel.app/api?username=mellolucas&show_icons=true&hide=stars,prs,contribs&show=prs_merged_percentage&locale=en"
             alt="Lucas Mello's GitHub stats card"
             width={600}
             height={200}

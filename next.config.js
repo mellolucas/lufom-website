@@ -1,5 +1,5 @@
 module.exports = {
   images: {
-    domains: ['i.giphy.com', 'github-readme-stats.vercel.app'],
+    domains: ['i.giphy.com', 'lufom-readme-stats.vercel.app'],
   },
 }
